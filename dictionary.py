@@ -2,6 +2,20 @@ from tkinter import *
 from tkinter import ttk
 import sqlite3
 import tkinter.font
+import sys
+import os
+import subprocess
+
+
+#if you want to use it as a real .exe file please remove exe()'s #
+def exe():
+    subprocess.check_call([sys.executable, '-m','pip','install','pyinstaller'])
+    reqs= subprocess.check_output([sys.executable, '-m','pip','freeze'])
+    installed_packages = [r.decode().split('==')[0] for r in reqs.split() ]
+    print(installed_packages)
+    os.system("pyinstaller --onefile -w dictionary.py")
+
+#exe()
 
 #Making root configurations
 root = Tk()
