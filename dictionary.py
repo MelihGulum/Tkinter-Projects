@@ -17,6 +17,7 @@ def exe():
 
 #exe()
 
+
 #Making root configurations
 root = Tk()
 root.title("LEARN VACOBULARY")
