@@ -3,6 +3,8 @@
 
 Python Tkinter GUI based dictionary example.You may use it as English-English or any Language-Language.
 
+If you want to use it as a real .exe file you can remove exe()'s #.
+
 You can make three different actions which are :
 - Insert new word
 - Delete existing word
