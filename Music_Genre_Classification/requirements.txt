@@ -1,0 +1,5 @@
+keras==2.6.0
+librosa==0.8.1
+numpy==1.19.5
+pygame==2.1.2
+tensorflow==2.6.0
