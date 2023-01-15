@@ -17,7 +17,7 @@ class stopwatch(Frame):
         self.set_time(self.nextTime)
         timeText.pack(pady = 2, padx = (15,0))
 
-        take_back = Button(self, text='BACK',font=('Arial', 10), command=self.back)
+        take_back = Button(self, text='BACKWARD',font=('Arial', 10), command=self.back)
         take_back.pack(side=LEFT,ipadx=10, ipady=9)
         start_button = Button(self, text='START', font=('Arial', 10), command=self.start)
         start_button.pack(side=LEFT,ipadx=10, ipady=9)
@@ -97,7 +97,7 @@ if __name__ == '__main__':
     StopWatch.pack(side=TOP)
     app.title("STOPWATCH")
     app_height = 100
-    app_width = 450
+    app_width = 490
     app.geometry(f'{app_width}x{app_height}+{400}+{80}')
     app.resizable(False, False)
     app.mainloop()
