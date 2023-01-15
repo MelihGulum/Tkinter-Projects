@@ -5,3 +5,4 @@ This repository will contain Tkinter projects. Therefore, the projects have been
 * KNN DreamCar GUI
 * GUI Dictionary
 * Music Genre Classification
+* StopWatch
