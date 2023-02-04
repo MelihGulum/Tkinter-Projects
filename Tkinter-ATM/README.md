@@ -36,6 +36,6 @@ Teller can do:
  <p align="center">   
   <img src="https://user-images.githubusercontent.com/81585804/216767860-69168554-a473-4e0f-b341-1c4a548ceb51.png" alt="Screenshots" width="40%" height="50%">
   <img src="https://user-images.githubusercontent.com/81585804/216767879-6cfeb898-6ba0-41f9-a190-58f746eb64b5.png" alt="Screenshots" width="40%" height="50%">
-  <img src="https://user-images.githubusercontent.com/81585804/216767887-48800cb9-0288-441c-8dbf-fddec94da51a.png" alt="Screenshots" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/81585804/216767887-48800cb9-0288-441c-8dbf-fddec94da51a.png" alt="Screenshots" width="50%" height="70%">
 </p>
 
