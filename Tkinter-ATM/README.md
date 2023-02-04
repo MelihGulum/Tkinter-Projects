@@ -7,6 +7,8 @@
  
  ## CLIENT
  
+ Default User Account ID is **1804** and the Password is **1000**
+ 
  Client can do:
 - Make a **withdrawal** from his/her own account.
   * Money can be withdrawn from the account in multiples of 50 or the user can enter a value.
@@ -24,6 +26,8 @@
 </p>
 
 ## TELLER 
+
+There is only one employee. Teller' credentials are **Doctor** and **23815**.
 
 Teller can do:
 - **New clients**
