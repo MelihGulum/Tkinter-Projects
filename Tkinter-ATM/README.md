@@ -3,7 +3,9 @@
   <h1>TEAM BANK ATM</h1>
  </div>
  
- This project is made with **Python (Tkinter)** and **Sqlite**. There are also two types of users in the project. There are also two types of users in the project. The first is "Client" and the other is "Teller". I know there are no bank employees at the ATM. But this project is an exception. Because we needed to add clients somehow. Below you can find brief information about the two users.
+ This project is made with **Python (Tkinter)** and **Sqlite**. There are also two types of users in the project. There are also two types of users in the project. The first is "Client" and the other is "Teller". 
+ 
+ I know there are no bank employees at the ATM. But this project is an exception. Because we needed to add clients somehow. Below you can find brief information about the two users.
  
  ## CLIENT
  
