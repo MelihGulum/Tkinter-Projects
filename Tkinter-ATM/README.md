@@ -29,13 +29,13 @@
 
 There is only one employee. Teller' credentials are **Doctor** and **23815**.
 
-Teller can do:
-- **New clients**
+Teller can :
+- Add **New clients**
   * All clients must have a **unique** Account ID. This is randomly determined by the computer.
   * Clients' basic informations such as "Name" and "Surname" have to be char. Other types are **restricted**, cannot be entered. 
   * Client "Password" must be **4** digits long. Other types other than numeric values are not accepted.
   * The first "Amount" cannot be **less than** 100. It also only accepts numeric values.
-- **list** all the clients.
+- *List** all the clients.
 
  <p align="center">   
   <img src="https://user-images.githubusercontent.com/81585804/216767860-69168554-a473-4e0f-b341-1c4a548ceb51.png" alt="Screenshots" width="40%" height="50%">
