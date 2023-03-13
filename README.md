@@ -7,3 +7,4 @@ This repository will contain Tkinter projects. Therefore, the projects have been
 * Music Genre Classification
 * StopWatch
 * Tkinter-ATM
+* Subtitle App
