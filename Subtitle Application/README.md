@@ -17,6 +17,7 @@ After starting the subtitle, your screen will change for better watching. All th
 - Window made **transparent** and **alpha** is changed.
 - Button background colors changed to white
 <p align="center">   
-  <img src="https://user-images.githubusercontent.com/81585804/224703761-4a66887d-bd1b-4bfc-ae82-43026b8f57c4.png" alt="Screenshots" width="40%" height="50%">
+  <img src="https://user-images.githubusercontent.com/81585804/224704578-fc6df526-d23e-4f43-98f5-9bf53c1bbed1.png" alt="Screenshots" width="40%" height="50%">
 </p>
+
 
