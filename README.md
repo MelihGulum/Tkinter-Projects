@@ -8,3 +8,4 @@ This repository will contain Tkinter projects. Therefore, the projects have been
 * StopWatch
 * Tkinter-ATM
 * Subtitle App
+* Pizza Order System
