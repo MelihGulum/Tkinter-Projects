@@ -6,6 +6,7 @@
  So I made my own subtitle app with Tkinter. Let's take look. 
  
 <h2>How to Run</h2>
+
  * First, you need to upload the Subtitle File (.srt) using the "Upload" button.
  * Then, you can use the media control buttons to start, stop, fast forward, rewind and reset the timer.
  * You can also use the "word" button if you want to see the (unique) words in the subtitle file as a txt.
@@ -27,6 +28,7 @@ After starting the subtitle, your screen will change for better watching. All th
 </p>
 
 <h2>What's new in Version 2?</h2>
+
 * A "load" button has been added to increase usability and make it more user-friendly.
 * A "word" button has been added for those who want to expand their vocabulary while watching the series.
 
