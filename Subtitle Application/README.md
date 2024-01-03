@@ -5,11 +5,17 @@
  Sometimes you may not be able to find the subtitle options for the language you want. Unfortunately neither do I. 
  So I made my own subtitle app with Tkinter. Let's take look. 
  
-First you have to load the str file. You will then see the following screen.
+<h2>How to Run</h2>
+ * First, you need to upload the Subtitle File (.srt) using the "Upload" button.
+ * Then, you can use the media control buttons to start, stop, fast forward, rewind and reset the timer.
+ * You can also use the "word" button if you want to see the (unique) words in the subtitle file as a txt.
+   - The txt file will be located in the same folder as "Subtitle_App.py" as with the name "words.txt".
 
 <p align="center">   
-  <img src="https://user-images.githubusercontent.com/81585804/224701680-d4dbce29-c9b0-47e0-b3d3-1c819ee2114b.png" alt="Screenshots" width="60%" height="70%">
+  <img src="https://github.com/MelihGulum/Tkinter-Projects/assets/81585804/1aac5f83-db34-4827-a898-55466f03eb17" alt="Screenshots" width="60%" height="70%">
 </p>
+
+
 
 After starting the subtitle, your screen will change for better watching. All these changes can be seen below the picture.
 
@@ -17,7 +23,10 @@ After starting the subtitle, your screen will change for better watching. All th
 - Window made **transparent** and **alpha** is changed.
 - Button background colors changed to white
 <p align="center">   
-  <img src="https://user-images.githubusercontent.com/81585804/224704578-fc6df526-d23e-4f43-98f5-9bf53c1bbed1.png" alt="Screenshots" width="60%" height="70%">
+  <img src="https://github.com/MelihGulum/Tkinter-Projects/assets/81585804/fb61ce65-7cea-4368-9101-20721821ce14" alt="Screenshots" width="60%" height="70%">
 </p>
 
+<h2>What's new in Version 2?</h2>
+* A "load" button has been added to increase usability and make it more user-friendly.
+* A "word" button has been added for those who want to expand their vocabulary while watching the series.
 
